@@ -1,6 +1,6 @@
 hi , how do u do !
 # 💫 About Me:
-I'm student at knsit 
+I'm student
 
 
 ## 🌐 Socials:
