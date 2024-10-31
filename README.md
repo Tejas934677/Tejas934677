@@ -1,4 +1,4 @@
-hi , how do u do !
+Hello! , how you there ?
 # 💫 About Me:
 I'm student
 
