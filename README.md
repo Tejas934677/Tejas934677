@@ -5,7 +5,8 @@ I'm student
 
 ## 🌐 Socials:
 
-https://www.linkedin.com/in/tejas-s-3b3237320?
+https://www.linkedin.com/in/tejas-s-3b3237320
+</br> </hr>
 <a href="https://www.buymeacoffee.com/tejasgowda934" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </br>
 # 💻 Tech Stack:
