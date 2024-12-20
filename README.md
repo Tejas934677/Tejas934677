@@ -6,6 +6,7 @@ I'm student
 ## 🌐 Socials:
 
 https://www.linkedin.com/in/tejas-s-3b3237320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+https://buymeacoffee.com/tejasgowda934
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
