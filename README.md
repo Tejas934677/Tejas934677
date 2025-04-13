@@ -1,4 +1,4 @@
-Hello! , how you there ?
+future dreams ❌ work like hell in present✅
 # 💫 About Me:
 I'm student
 
