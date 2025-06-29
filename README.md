@@ -4,10 +4,17 @@ I'm student
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/tejas-s-a9539a36b/" target="_blank"><img src="https://imgs.search.brave.com/BMlfP-ahdYltIxJ19NCwbV_fQQU_mVmryAsNM0XzzCU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTMvTGlu/a2VkaW4tTG9nby1Q/TkctUGhvdG8ucG5n" alt="linked in "  style="height: 60px !important;width: 217px !important;" ></a> </br></hr> 
-</br> </hr>
-<a href="https://www.buymeacoffee.com/tejasgowda934" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</br>
+
+<p>
+  <a href="https://www.linkedin.com/in/tejas-s-a9539a36b/" target="_blank" style="display:inline-block; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="height: 40px; width: 40px;">
+  </a>
+
+  <a href="https://www.buymeacoffee.com/tejasgowda934" target="_blank" style="display:inline-block;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px; width: 160px;">
+  </a>
+</p>
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
 ![C](https://img.shields.io/badge/c-%2300599C.
