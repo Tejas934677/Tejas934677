@@ -1,7 +1,5 @@
 Future dreams ❌ work like hell in present✅
-## 🌐 Socials:
 
-Support : 
   <a href="https://www.buymeacoffee.com/tejasgowda934" target="_blank" style="display:inline-block;">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px; width: 160px;">
   </a>
